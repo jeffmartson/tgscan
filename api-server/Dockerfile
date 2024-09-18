@@ -1,4 +1,4 @@
-FROM maven:3.9.1-eclipse-temurin-17
+FROM maven:3.9.9-eclipse-temurin-17
 WORKDIR /app
 COPY pom.xml .
 RUN mvn -B dependency:resolve dependency:resolve-plugins
