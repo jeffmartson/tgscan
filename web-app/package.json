@@ -5,8 +5,8 @@
   "dependencies": {
     "@shopify/polaris": "^10.15.0",
     "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^13.0.0",
-    "@testing-library/user-event": "^13.2.1",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/user-event": "^14.0.0",
     "lodash": "^4.17.21",
     "p-debounce": "^4.0.0",
     "ramda": "^0.29.0",
